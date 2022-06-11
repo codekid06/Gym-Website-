@@ -1,0 +1,1 @@
+console.log("Hello im in static folder");
